@@ -1,0 +1,76 @@
+Skeleton2	
+
+Inhaltsverzeichnis
+
+Inhalt Skeleton2	
+Generator Möglichkeiten	1
+Syntax			2
+Einstellungen:		3
+Fehler finden		4
+Speichern und laden	5s
+
+
+
+
+ 
+Generator Möglichkeiten
+
+1.	Attribute
+2.	Methoden (mit Parametern)
+3.	Konstruktoren (mit Parameter)
+4.	Getter
+5.	Setter
+6.	Print Methode
+7.	toString Methode
+
+ 
+Syntax
+-----------------------------------------------------------------------------------------------
+
+Der Syntax von Skeleton ist sehr ähnlich von dem vom URL Diagramm (Klassen-diagramm).
+
+Syntax Attribute
+
+name : typ
+
+Syntax Method
+
+aufstehen():void
+
+Syntax Constructor
+
+Name der Klasse zb:
+
+Hund()
+
+Syntax Parameter (für Methode und Konstruktor)
+
+name : typ
+
+Ein Parameter kann bei einer Methode oder Konstruktor genutzt werden.
+Für den Fall, dass man mehrere Parameter in einer Methode/Konstruktor nutzen will kann man dies auch tun, allerdings muss man zwischen den Parametern einen Beistrich setzten.
+Syntax Klassen Name
+
+
+ 
+Einstellungen: 
+
+Im Einstellungsfenster kann man Einstellungen einstellen.
+
+
+Momentan kann man im Einstellungsfenster nur das Überprüfen von Variablen/Methoden Typen ausstelle.
+
+Fehler finden
+
+Skeleton 2 hat wahrscheinlich einige Fehler, wenn die einen solchen Fehler finden senden sie, wenn sie wollen eine mail an maxiprogramming@gmail.com
+
+Ein Bug, der leider sehr häufig auftritt ist es das nach dem eine Fehlermeldung dass das Programm keinen code generiert um ihn zu lösen sollte man das Programm neustarten (rotes X/Tools Restart)
+
+Speichern und laden
+
+Speichern:
+Tool > save File
+erstellt ein Dokument, in dem das Erstellte Klassendiagramm steht
+
+Laden > Load File
+liest ein Dokument aus und erzeugt den Java code zum Klassendagramm
